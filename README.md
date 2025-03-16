@@ -49,7 +49,7 @@ Finally, for the main task, which has been to swap faces in a single image we do
 
 Done !  
   
-![face swap](face_swap2)  
+![face swap](face_swap2.png)  
   
 
 with help from:
