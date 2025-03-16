@@ -36,6 +36,9 @@ The code then reads two images, and uses these functions to complete the face sw
 
 A __real-time face swapping__ has also been implemented using this second approach.
 
+  
+you can observe a sample reluts in the image below:  
+![face swap](face_swap.png)  
 
 
 Finally, for the main task, which has been to swap faces in a single image we do the following steps:
@@ -44,7 +47,10 @@ Finally, for the main task, which has been to swap faces in a single image we do
 3. Face Swapping: Set the first face as the source image and apply it to the second face as the destination. Then, set the second face as the source and apply it to the first face as the destination.
 4. Replace Faces: Replace the main faces in the original image with the results obtained from the face swapping process.
 
-Done !
+Done !  
+  
+![face swap](face_swap2)  
+  
 
 with help from:
 1. https://learnopencv.com/face-swap-using-opencv-c-python/
